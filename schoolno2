@@ -1,0 +1,15 @@
+name = input(Name:)
+
+if name = "butt", "Jeff", "jeff", "Butt", " Butt", " Jeff", " butt", " jeff":
+  print("Try to be less immature)
+  end
+else:
+  print("Hi," name "!")  
+
+stupid = input(Are you stupid?:)
+
+if stupid = "y", "Y", " Y", " y", "Yes", "yes", " Yes", " yes":
+  print("You're a fucking dumbass," name "!")
+else:
+  print("Smarter than I thought...")
+  end
