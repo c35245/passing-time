@@ -1,4 +1,5 @@
-name = input(Name:)
+from time import sleep
+name = input("Name:")
 
 if name = "butt", "Jeff", "jeff", "Butt", " Butt", " Jeff", " butt", " jeff":
   print("Try to be less immature)
@@ -6,7 +7,11 @@ if name = "butt", "Jeff", "jeff", "Butt", " Butt", " Jeff", " butt", " jeff":
 else:
   print("Hi," name "!")  
 
-stupid = input(Are you stupid?:)
+sleep(5)
+print("Hmmmm...")
+sleep(4)
+
+stupid = input("Are you stupid?:")
 
 if stupid = "y", "Y", " Y", " y", "Yes", "yes", " Yes", " yes":
   print("You're a fucking dumbass," name "!")
